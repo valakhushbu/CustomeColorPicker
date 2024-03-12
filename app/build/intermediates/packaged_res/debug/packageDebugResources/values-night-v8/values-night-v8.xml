@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.ColorPickerDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowBackground">@color/black</item>
+        <item name="shapeAppearanceOverlay">@style/circularShape</item>
+    </style>
+    <style name="circleShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> 
+    </style>
+    <style name="circularShape">
+        <item name="cornerSize">50%</item>
+        <item name="strokeColor">@android:color/white</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+</resources>

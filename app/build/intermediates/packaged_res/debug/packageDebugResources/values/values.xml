@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#2c2c2c</color>
+    <color name="black">#FF000000</color>
+    <color name="green">#4ba54f</color>
+    <color name="orange">#ff6100</color>
+    <color name="selected_bg">#3b3b3b</color>
+    <color name="teal">#00c2a3</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="circle_image_size">50dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="margin_color_picker">16pt</dimen>
+    <dimen name="margin_common">8dp</dimen>
+    <dimen name="margin_layput">10pt</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <string name="app_name">ColorPickerDemo</string>
+    <string name="brigtness">Brightness</string>
+    <style name="Base.Theme.ColorPickerDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+        <item name="android:windowBackground">@color/black</item>
+        <item name="shapeAppearanceOverlay">@style/circularShape</item>
+    </style>
+    <style name="Theme.ColorPickerDemo" parent="Base.Theme.ColorPickerDemo"/>
+    <style name="circularShape">
+        <item name="cornerSize">50%</item>
+        <item name="strokeColor">@android:color/white</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+</resources>

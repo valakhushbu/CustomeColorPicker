@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorPickerDemo</string>
+    <string name="brigtness">Brightness</string>
+</resources>

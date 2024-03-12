@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.colorpickerdemo.app-mergeDebugResources-40:/layout/activity_main.xml",
+        "source": "com.example.colorpickerdemo.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\khush\\.gradle\\daemon\\8.4\\com.example.colorpickerdemo.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\khush\\.gradle\\daemon\\8.4\\com.example.colorpickerdemo.app-main-43:\\layout\\activity_main.xml"
+    }
+]

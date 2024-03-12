@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_common">8dp</dimen>
+    <dimen name="circle_image_size">50dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="margin_color_picker">16pt</dimen>
+    <dimen name="margin_layput">10pt</dimen>
+    <dimen name="elevation">8dp</dimen>
+</resources>
