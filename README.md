@@ -17,3 +17,6 @@ This project involves the development of a custom color picker with the followin
 
 ## Usage
 Provide instructions on how to use or integrate the custom color picker in your application.
+
+## Screenshots
+![Screenshot 1](file:///C:/Users/khush/Downloads/WhatsApp Image 2024-03-13 at 02.02.17.jpeg)
